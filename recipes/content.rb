@@ -41,7 +41,7 @@ package "git" do
 end
 
 git node['afterdark-webhead']['content-path'] do
-  repository "https://github.com/bryanbraun/after-dark-css.git"
+  repository node['afterdark-webhead']['content-source']
   user node['afterdark-webhead']['content-user']
   group node['afterdark-webhead']['content-group']
   action :sync
