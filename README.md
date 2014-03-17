@@ -1,8 +1,8 @@
 AfterDark-Webhead
 -----------------
 
-Configures a server to serve [AfterDark Screensavers in CSS](https://github.com/bryanbraun/after-dark-css)
-via nginx
+Chef Cookbook to configure a server to serve [AfterDark Screensavers in CSS](https://github.com/bryanbraun/after-dark-css)
+using Nginx.
 
 Why?
 ----
