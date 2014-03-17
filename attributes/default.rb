@@ -11,3 +11,4 @@
 default['afterdark-webhead']['content-user']  = 'ad-content'
 default['afterdark-webhead']['content-group'] = 'ad-content'
 default['afterdark-webhead']['content-path']  = '/var/www/afterdark'
+default['afterdark-webhead']['server-name']   = 'localhost'

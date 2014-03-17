@@ -9,6 +9,7 @@
 
 critical_recipes = [
                     "afterdark-webhead::content",
+                    "afterdark-webhead::nginx",
                    ]
 
 # Run critical recipes
