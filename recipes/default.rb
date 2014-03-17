@@ -8,6 +8,7 @@
 #
 
 critical_recipes = [
+                    "afterdark-webhead::acl",
                     "afterdark-webhead::content",
                     "afterdark-webhead::nginx",
                    ]
